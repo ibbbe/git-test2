@@ -1,2 +1,3 @@
 # git-test2
-new for new
+New for new!
+Hello new!
