@@ -1,1 +1,3 @@
 Some modified text to drill git workflow :)
+Practice given git tasks, and stay beautiful :)
+
